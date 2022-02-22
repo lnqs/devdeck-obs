@@ -12,4 +12,4 @@ But probably several issues. Shutdowns that aren't working cleanly, for example.
 
 Anyway it already could use some cleanup and dry.
 
-Maybe it'll get some more love at some point. And maybe someone finds this interesting.
+And due to https://github.com/lnqs/knoepfe it'll probably won't get any love anymore.
